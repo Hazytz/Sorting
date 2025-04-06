@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670349095 source:c:\codeblocks\sorting\sorting.cpp
+	<iostream>
+	<tuple>
+	<random>
+	<bits/stdc++.h>
+
+1670615286 source:c:\users\watts\desktop\sorting\sorting.cpp
+	<iostream>
+	<tuple>
+	<random>
+	<bits/stdc++.h>
+
